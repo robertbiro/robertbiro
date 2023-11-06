@@ -1,4 +1,13 @@
-### Hi there 👋
+Welcome to my GitHub profile!
+
+ Hello! I am Robert Biro, a Java Backend Developer, from Hungary.
+
+Programming languages:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular logo" width="50" height="50"/>
+
+
 
 <!--
 **robertbiro/robertbiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
