@@ -1,11 +1,16 @@
 Welcome to my GitHub profile!
 
- Hello! I am Robert Biro, a Java Backend Developer, from Hungary.
+About Me: 
+Hello! I am Robert Biro, a Java Backend Developer, from Hungary.
 
 Programming languages:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular logo" width="50" height="50"/>
+
+My practicing: 
+
+![Codewars](https://github.r2v.ch/codewars?user=robertbiro)
 
 
 
