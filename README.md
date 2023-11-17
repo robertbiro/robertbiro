@@ -1,7 +1,9 @@
 Welcome to my GitHub profile!
 
 About Me: 
-Hello! I am Robert Biro, a Java Backend Developer, from Hungary.
+Hello! 
+I am Robert Biro, a Java Backend Developer, from Hungary. I am an economist studying to be a good junior software developer. My CV is available on my LinkedIn profile.
+https://www.linkedin.com/in/robert-biro-ab15b8204/
 
 Programming languages:
 
